@@ -1,5 +1,6 @@
 executor/data/propnet_preds/with*
 executor/parse_results/
 executor/*.tar
+executor/data/
 executor/.vscode/
 executor/__pycache__
